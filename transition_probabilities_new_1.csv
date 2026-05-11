@@ -1,0 +1,17 @@
+current_state,action,next_state,count,probability
+M4,a_mitig,M4,52374,0.8001
+M4,a_mitig,M2,13086,0.1999
+M2,a_mitig,M2,161283,0.5996
+M2,a_mitig,M1,54084,0.2011
+M2,a_mitig,M3,53629,0.1994
+M1,a_accept,Accept_M1,52670,0.9008
+M1,a_accept,Reject,5800,0.0992
+M3,a_mitig,M3,77625,0.499
+M3,a_mitig,M2,77950,0.501
+M2,a_accept,Accept_M2,1267,0.7122
+M2,a_accept,Reject,512,0.2878
+M1,a_mitig,M1,4475,1.0
+M3,a_accept,Accept_M3,204,0.5763
+M3,a_accept,Reject,150,0.4237
+M4,a_accept,Reject,11,0.9167
+M4,a_accept,Accept_M4,1,0.0833

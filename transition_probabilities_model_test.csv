@@ -1,0 +1,5 @@
+current_state,action,next_state,count,probability
+M4,a_next,M4,265540,1.0
+M3,a_next,M3,524500,1.0
+M2,a_next,M2,428720,1.0
+M1,a_next,M1,101240,1.0

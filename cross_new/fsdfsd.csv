@@ -1,0 +1,5 @@
+d,b,r,c,k,m,m_metrics
+image,categorisation,false,EU_only,start,insufficient,"[0.035, 0.942, 0.724, 0.931]"
+video,categorisation,high-risk,adequacy,evidence,insufficient,"[0.049, 0.843, 0.929, 0.788]"
+image,remote_id,false,adequacy,proposed,suboptimal,"[0.704, 0.646, 0.673, 0.651]"
+image,none,false,EU_only,start,suboptimal,"[0.703, 0.617, 0.645, 0.69]"

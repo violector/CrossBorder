@@ -1,0 +1,17 @@
+current_state,action,next_state,count,probability
+M4,a_eval,M4,23172,0.3321
+M4,a_eval,M2,23277,0.3336
+M4,a_eval,M3,23322,0.3343
+M2,a_eval,M2,27754,0.331
+M2,a_eval,M4,28015,0.3342
+M2,a_eval,M3,28070,0.3348
+M2,a_accept,M1,3021,1.0
+M3,a_eval,M4,30615,0.3355
+M3,a_eval,M2,30526,0.3345
+M3,a_eval,M3,30116,0.33
+M4,a_reject,M1,16088,1.0
+M3,a_accept,M1,223,1.0
+M1,a_eval,M1,1096,0.4862
+M1,a_eval,M2,1158,0.5138
+M1,a_accept,M1,1116,1.0
+M2,a_reject,M1,3678,1.0
