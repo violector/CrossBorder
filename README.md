@@ -2,8 +2,6 @@
 
 A Markov Decision Process framework for governing AI systems through a sequential pipeline of four progressively restrictive governance stages, balancing semantic expressivity against uncertainty.
 
-Published in *Nature Communications* (2026): *"Markov Decision Processes for Governance of Artificial Intelligence"*  
-Authors: Minxian Xu, Kan Hu, Vlado Stankovski, Petar Kochovski
 
 ---
 
@@ -84,13 +82,4 @@ pdflatex main.tex  # second pass for cross-references
 
 MIT License. See repository for details.
 
-## Citation
-
-```bibtex
-@article{xu2026mdp,
-  title={Markov Decision Processes for Governance of Artificial Intelligence},
-  author={Xu, Minxian and Hu, Kan and Stankovski, Vlado and Kochovski, Petar},
-  journal={Nature Communications},
-  year={2026}
-}
 ```
